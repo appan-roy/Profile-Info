@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Appan Roy.
-- 👀 I’m interested in various test automation tools/frameworks/technologies like Selenium, Cucumber, RobotF, RPA etc.
+- 👋 Hi, I’m Appan Roy. I'm currently working in a leading IT Services as Automation Test Engineer.
+- 👀 I’m interested in various test automation tools/frameworks/technologies like Web/Desktop/API/Mobile/Process Automations.
 - 🌱 I’m currently working in Selenium Cucumber BDD framework.
 - 💞️ I’m looking to collaborate on framework designing with different approaches like Selenium with Cucumber, RobotF, Protractor with Cucumber etc.
 - 📫 Please reach me via email at appan12345@gmail.com.
